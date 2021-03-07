@@ -11,10 +11,12 @@ Project focuses on data wrangling focusing on tidiness issues and data quality f
 * `tweet_data` : Using tweet IDs in 'twitter_archive', query Twitter API for each tweet's JSON data using tweepy library and store each tweet's entire set of JSON data in a file 'tweet_json.txt'.
 
 Python3 was used for the wrangling efforts with the assistance of the following libraries:
-*
-*
-*
-*
+* pandas
+* NumPy
+* requests
+* tweepy
+* JSON
+* seaborn
 
 ###Data Assessing:
 
